@@ -1,35 +1,33 @@
 {
   "squares": [
-    { "name": "media", "links": [
-        { "name": "Spotify", "url": "https://open.spotify.com/" },
-        { "name": "YoutubeMusic", "url": "https://music.youtube.com/" },
+    { "name": "Media", "links": [
         { "name": "Netflix", "url": "https://netflix.com" },
-        { "name": "Youtube", "url": "https://youtube.com" }
+        { "name": "Youtube", "url": "https://youtube.com" },
+	{ "name": "Hard Trance Music", "url": "https://www.di.fm/playlists?tag=Hard+Trance"}
       ]
     },
-    { "name": "work", "links": [
+    { "name": "GITHUB", "links": [
         { "name": "Github", "url": "https://github.com" },
-        { "name": "Heroku", "url": "http://heroku.com/" },
-        { "name": "localhost", "url": "http://localhost:8000/" }
+	{ "name": "Github CLI", "url": "https://cli.github.com/"},
+	{ "name": "Github GISTS", "url": "https://gist.github.com/F4NT0"}
       ]
     },
     { "name": "social", "links": [
         { "name": "Reddit", "url": "https://reddit.com" },
-        { "name": "Unixporn Love", "url": "https://deepjyoti30.github.io/unixporn-love/" },
-        { "name": "r/unixporn", "url": "https://www.reddit.com/r/unixporn/" },
-        { "name": "r/mk", "url": "https://www.reddit.com/r/MechanicalKeyboards/" }
+	{ "name": "Twitter", "url": "https://twitter.com/home"},
+	{ "name": "Gmail", "url": "http://gmail.com/"},
+	{ "name": "Whatsapp", "url": "https://web.whatsapp.com/"}
       ]
     },
     {
-      "name": "Others", "links": [
-        {"name": "Material Colors", "url": "http://materialuicolors.co/"},
-        {"name": "Gmail", "url": "http://gmail.com/"},
-        {"name": "neo4j Local", "url": "http://localhost:7474/"},
-        {"name": "rarbg", "url": "http://rarbg.to"}
+      "name": "AGES", "links": [
+	{"name": "Tools AGES", "url": "https://tools.ages.pucrs.br/"},
+        {"name": "Fluxo AGES", "url": "www.ages.pucrs.br:4200/"},
+	{ "name": "localhost", "url": "http://localhost:4200/" }
       ]
     }
   ],
-  "user": "Deepjyoti",
+  "user": "F4NT0",
   "disableMessage": false,
   "disableDate": false,
   "disableSearchBar": false
