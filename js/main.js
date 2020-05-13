@@ -80,17 +80,17 @@ function buildMsg() {
     currentTime = currentHour + (0.01 * currentMinute)
 
     if (inRange(currentTime, 0, 5.59))
-        return "It's too late, take some sleep"
+        return "Hacking Hard at Midnight Oil"
     if (inRange(currentTime, 6, 8.59))
-        return "You're up early"
+        return "Good Morning Master"
     if (inRange(currentTime, 9, 11.59))
-        return "Have a good day ahead"
+        return "Don't Forget to Check your Medias"
     if (inRange(currentTime, 12, 16.59))
-        return "Good Afternoon"
+        return "Good Afternoon, Time to Work"
     if (inRange(currentTime, 17, 19.59))
-        return "Good Evening"
+        return "It's School Time my Lord"
     if (inRange(currentTime, 20, 24))
-        return "It's time to wrap up for the day"
+        return "Time to rest a bit and watch some Series!"
     else
         return ""
 }

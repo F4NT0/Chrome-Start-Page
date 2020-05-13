@@ -6,17 +6,18 @@
 	{ "name": "Hard Trance Music", "url": "https://www.di.fm/playlists?tag=Hard+Trance"}
       ]
     },
-    { "name": "GITHUB", "links": [
-        { "name": "Github", "url": "https://github.com" },
-	{ "name": "Github CLI", "url": "https://cli.github.com/"},
-	{ "name": "Github GISTS", "url": "https://gist.github.com/F4NT0"}
+    { "name": "Faculdade", "links": [
+        { "name": "Moodle", "url": "https://moodle.pucrs.br/" },
+	{ "name": "Email Edu", "url": "https://outlook.office.com/mail/inbox"},
+	{ "name": "Email Acad", "url": "https://mail.google.com/mail/u/1/#inbox"}
       ]
     },
-    { "name": "social", "links": [
+    { "name": "Social", "links": [
         { "name": "Reddit", "url": "https://reddit.com" },
 	{ "name": "Twitter", "url": "https://twitter.com/home"},
-	{ "name": "Gmail", "url": "http://gmail.com/"},
-	{ "name": "Whatsapp", "url": "https://web.whatsapp.com/"}
+	{ "name": "Whatsapp", "url": "https://web.whatsapp.com/"},
+	{ "name": "Github", "url": "https://github.com" }
+
       ]
     },
     {
