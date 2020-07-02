@@ -1,7 +1,5 @@
 # Minimal Startpage
 
-Just another minimal startpage for browsers.
-
 <img src=".github/startpage.gif">
 
 ## How to Use
@@ -9,7 +7,7 @@ Just another minimal startpage for browsers.
 - Clone the repo
 
     ```console
-    git clone https://github.com/deepjyoti30/startpage
+    git clone https://github.com/F4NT0/startpage
     ```
 
     Alternately, you can download and extract from the browser.
@@ -22,14 +20,10 @@ Just another minimal startpage for browsers.
 
 ### Firefox
 
-- Open ```about:debugging``` from your Firefox browser.
-- Click on This Firefox and select ```Load Temporary Add On...```
-- Open the cloned repo directory and select any file there (preferrably ```manifest.json```)
+- Open [about:debugging](about:debugging#/setup) from your Firefox browser.
+- Click on [This Firefox](about:debugging#/runtime/this-firefox) and select **Load Temporary Add On...**.
+- Open the cloned repo directory and select the file **manifest.json**.
 - It should be installed.
-
-## Upcoming
-
-I'm thinking of pushing the add on to their respective add on stores, I'll add that ASAP.
 
 ## Settings
 
