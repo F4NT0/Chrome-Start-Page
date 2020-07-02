@@ -3,28 +3,28 @@
     { "name": "Media", "links": [
         { "name": "Netflix", "url": "https://netflix.com" },
         { "name": "Youtube", "url": "https://youtube.com" },
-	{ "name": "Hard Trance Music", "url": "https://www.di.fm/playlists?tag=Hard+Trance"}
+	      { "name": "Hard Trance Music", "url": "https://www.di.fm/playlists?tag=Hard+Trance"}
       ]
     },
     { "name": "Faculdade", "links": [
         { "name": "Moodle", "url": "https://moodle.pucrs.br/" },
-	{ "name": "Email Edu", "url": "https://outlook.office.com/mail/inbox"},
-	{ "name": "Email Acad", "url": "https://mail.google.com/mail/u/1/#inbox"}
+	      { "name": "Email Edu", "url": "https://outlook.office.com/mail/inbox"},
+	      { "name": "Email Acad", "url": "https://mail.google.com/mail/u/1/#inbox"}
       ]
     },
     { "name": "Social", "links": [
         { "name": "Reddit", "url": "https://reddit.com" },
-	{ "name": "Twitter", "url": "https://twitter.com/home"},
-	{ "name": "Whatsapp", "url": "https://web.whatsapp.com/"},
-	{ "name": "Github", "url": "https://github.com" }
+	      { "name": "Twitter", "url": "https://twitter.com/home"},
+	      { "name": "Whatsapp", "url": "https://web.whatsapp.com/"},
+	      { "name": "Github", "url": "https://github.com" }
 
       ]
     },
     {
       "name": "AGES", "links": [
-	{"name": "Tools AGES", "url": "https://tools.ages.pucrs.br/"},
-        {"name": "Fluxo AGES", "url": "www.ages.pucrs.br:4200/"},
-	{ "name": "localhost", "url": "http://localhost:4200/" }
+	      { "name": "Tools AGES", "url": "https://tools.ages.pucrs.br/"},
+        { "name": "Fluxo AGES", "url": "www.ages.pucrs.br:8080/"},
+	      { "name": "localhost", "url": "http://localhost:4200/" }
       ]
     }
   ],
