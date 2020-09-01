@@ -3,13 +3,14 @@
     { "name": "Media", "links": [
         { "name": "Netflix", "url": "https://netflix.com" },
         { "name": "Youtube", "url": "https://youtube.com" },
-	      { "name": "Hard Trance Music", "url": "https://www.di.fm/playlists?tag=Hard+Trance"}
+	      { "name": "TweetDeck", "url": "https://tweetdeck.twitter.com/"}
       ]
     },
     { "name": "Faculdade", "links": [
         { "name": "Moodle", "url": "https://moodle.pucrs.br/" },
 	      { "name": "Email Edu", "url": "https://outlook.office.com/mail/inbox"},
-	      { "name": "Email Acad", "url": "https://mail.google.com/mail/u/1/#inbox"}
+        { "name": "Email Acad", "url": "https://mail.google.com/mail/u/1/#inbox"},
+        { "name": "Google Drive", "url": "https://drive.google.com/drive/u/1/my-drive"}
       ]
     },
     { "name": "Social", "links": [
@@ -24,7 +25,8 @@
       "name": "AGES", "links": [
 	      { "name": "Tools AGES", "url": "https://tools.ages.pucrs.br/"},
         { "name": "Fluxo AGES", "url": "www.ages.pucrs.br:8080/"},
-	      { "name": "localhost", "url": "http://localhost:4200/" }
+        { "name": "localhost", "url": "http://localhost:4200/" },
+        { "name": "Homologação", "url": "http://hml.ages.pucrs.br:8080/"}
       ]
     }
   ],
