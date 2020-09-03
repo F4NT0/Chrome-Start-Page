@@ -3,7 +3,8 @@
     { "name": "Media", "links": [
         { "name": "Netflix", "url": "https://netflix.com" },
         { "name": "Youtube", "url": "https://youtube.com" },
-	      { "name": "TweetDeck", "url": "https://tweetdeck.twitter.com/"}
+        { "name": "TweetDeck", "url": "https://tweetdeck.twitter.com/"},
+        { "name": "ClickUp", "url": "https://app.clickup.com/3034997/v/l/2wkvn-80"}
       ]
     },
     { "name": "Faculdade", "links": [
@@ -26,9 +27,17 @@
 	      { "name": "Tools AGES", "url": "https://tools.ages.pucrs.br/"},
         { "name": "Fluxo AGES", "url": "www.ages.pucrs.br:8080/"},
         { "name": "localhost", "url": "http://localhost:4200/" },
-        { "name": "Homologação", "url": "http://hml.ages.pucrs.br:8080/"}
+        { "name": "Homologação", "url": "http://hml.ages.pucrs.br:8080/"},
+        { "name": "Jenkins AGES", "url": "https://jenkins.ages.pucrs.br/jenkins/login?from=%2Fjenkins"}
+      ]
+    },
+    {
+      "name": "Edição", "links": [
+	      { "name": "ILoveIMG", "url": "https://www.iloveimg.com/"},
+        { "name": "Kapwing", "url": "https://www.kapwing.com/workspace/5f5064f48add0b00995f0f28"}
       ]
     }
+
   ],
   "user": "F4NT0",
   "disableMessage": false,
