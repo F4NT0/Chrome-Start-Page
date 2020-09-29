@@ -20,7 +20,8 @@
         { "name": "Reddit", "url": "https://reddit.com" },
 	      { "name": "Twitter", "url": "https://twitter.com/home"},
 	      { "name": "Whatsapp", "url": "https://web.whatsapp.com/"},
-	      { "name": "Github", "url": "https://github.com" }
+        { "name": "Github", "url": "https://github.com" },
+        { "name": "Linkedin", "url": "https://www.linkedin.com/feed/"}
 
       ]
     },
@@ -36,7 +37,8 @@
     {
       "name": "Edição", "links": [
 	      { "name": "ILoveIMG", "url": "https://www.iloveimg.com/"},
-        { "name": "Kapwing", "url": "https://www.kapwing.com/workspace/5f5064f48add0b00995f0f28"}
+        { "name": "Kapwing", "url": "https://www.kapwing.com/workspace/5f5064f48add0b00995f0f28"},
+        { "name": "Estágio na Join", "url": "https://jointecnologia.gupy.io/candidates/applications/39046095/steps/216260070"} 
       ]
     }
 
