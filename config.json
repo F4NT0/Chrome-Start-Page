@@ -39,7 +39,8 @@
 	      { "name": "ILoveIMG", "url": "https://www.iloveimg.com/"},
         { "name": "Kapwing", "url": "https://www.kapwing.com/workspace/5f5064f48add0b00995f0f28"},
         { "name": "PrimeNG", "url": "https://www.primefaces.org/primeng/showcase/#/"},
-        { "name": "Draw.io", "url": "https://app.diagrams.net/"}
+        { "name": "Draw.io", "url": "https://app.diagrams.net/"},
+        { "name": "JournalDev", "url": "https://www.journaldev.com/"}
       ]
     }
 
