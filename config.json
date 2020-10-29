@@ -26,12 +26,10 @@
       ]
     },
     {
-      "name": "AGES", "links": [
+      "name": "Emprego", "links": [
 	      { "name": "Tools AGES", "url": "https://tools.ages.pucrs.br/"},
         { "name": "Fluxo AGES", "url": "http://www.ages.pucrs.br:8080/login"},
-        { "name": "AGES Wordpress", "url": "http://www.ages.pucrs.br/wp-admin/" },
-        { "name": "Homologação", "url": "http://hml.ages.pucrs.br:8080/"},
-        { "name": "Jenkins AGES", "url": "https://jenkins.ages.pucrs.br/jenkins/login?from=%2Fjenkins"}
+        { "name": "Email fantolaboratorio", "url": "https://outlook.live.com/mail/0/inbox" }
       ]
     },
     {
