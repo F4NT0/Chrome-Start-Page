@@ -27,9 +27,8 @@
     },
     {
       "name": "Emprego", "links": [
-	      { "name": "Tools AGES", "url": "https://tools.ages.pucrs.br/"},
-        { "name": "Fluxo AGES", "url": "http://www.ages.pucrs.br:8080/login"},
-        { "name": "Email fantolaboratorio", "url": "https://outlook.live.com/mail/0/inbox" }
+        { "name": "fantolaboratorio", "url": "https://outlook.live.com/mail/0/inbox" },
+        { "name": "Turing Developers", "url": "https://developers.turing.com/dashboard/home"}
       ]
     },
     {
@@ -38,7 +37,8 @@
         { "name": "Kapwing", "url": "https://www.kapwing.com/workspace/5f5064f48add0b00995f0f28"},
         { "name": "PrimeNG", "url": "https://www.primefaces.org/primeng/showcase/#/"},
         { "name": "Draw.io", "url": "https://app.diagrams.net/"},
-        { "name": "JournalDev", "url": "https://www.journaldev.com/"}
+        { "name": "JournalDev", "url": "https://www.journaldev.com/"},
+        { "name": "Unicode Emojis", "url": "https://getemoji.com/"}
       ]
     }
 
