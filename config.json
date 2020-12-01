@@ -26,9 +26,12 @@
       ]
     },
     {
-      "name": "Emprego", "links": [
-        { "name": "fantolaboratorio", "url": "https://outlook.live.com/mail/0/inbox" },
-        { "name": "Turing Developers", "url": "https://developers.turing.com/dashboard/home"}
+      "name": "Digifred", "links": [
+        { "name": "Bitbucket", "url": "https://bitbucket.org/dashboard/overview" },
+        { "name": "Jira Digifred", "url": "https://digifred.atlassian.net/jira/software/c/projects/DEV/boards/15/roadmap"},
+        { "name": "Wiki Digifred", "url": "https://digifred.atlassian.net/wiki/spaces/DEV/overview?homepageId=397443185"},
+        { "name": "Produção Digifred", "url": "https://grp.digifred.com/#/"},
+        { "name": "Slack Digifred", "url": "https://app.slack.com/client/TC63N10H5/CFP0XJ3CK"}
       ]
     },
     {
